@@ -138,3 +138,8 @@ com.awais.statistaproxyapi
 
 ```bash
 mvn clean install
+### Run the Application
+mvn spring-boot:run
+### default port:
+http://localhost:8080
+
